@@ -9,3 +9,6 @@ This is a virtual simulation of a game called simon says, we basically have to f
   <li>JavaScript</li>
   <li>JQuery</li>
 </ul>
+
+<h1>Technical Information</h1>
+
