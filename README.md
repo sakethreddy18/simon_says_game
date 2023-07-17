@@ -11,4 +11,6 @@ This is a virtual simulation of a game called simon says, we basically have to f
 </ul>
 
 <h1>Technical Information</h1>
+If you want to try out the game use the given link
+<a href = "https://sakethreddy18.github.io/simon_says_game/">Click here</a>
 
